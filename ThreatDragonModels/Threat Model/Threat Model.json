@@ -1,0 +1,26 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Threat Model",
+    "owner": "Benjamín Daza",
+    "description": "Repositorio de un calendario para agendar horas de imagenología para cada tipo.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagrama STRIDE",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
